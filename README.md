@@ -15,8 +15,9 @@ Aliexpress: https://www.aliexpress.com/item/1005003246449359.html?spm=a2g0o.stor
 #  Compare between MKS DLC and MKS DLC32
 ![compare](https://user-images.githubusercontent.com/48378586/138044453-24ca6b9d-2692-4dd1-8831-7d136d0b0f45.png)
 
-Mobile App
+#  Mobile App
 We have developed MKSLaser, the App for mobile phone, which can connect to MKS DLC32, control movement, edit image, upload files and so on. Now the Android verison has been uploaded to Google Play. And the one for IOS is still under development. 
 ![image](https://user-images.githubusercontent.com/48378586/138044705-56821842-31f8-477e-bc7a-0a7ccbdaa075.png)
 
-![Parameters](https://user-images.githubusercontent.com/48378586/138046095-1a1db24b-5bb7-419f-b5ca-1b01a7fdbf85.png)
+![Parameters](https://user-images.githubusercontent.com/48378586/138046973-5118cc55-2416-4dce-84fb-64aa9bb76b7f.png)
+
