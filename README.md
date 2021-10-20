@@ -7,12 +7,11 @@ The mounting holes and board size of MKS DLC32 are compatible with MKS DLC, and 
 Product introduce video: https://youtu.be/G1q-eSL_V_I  
 Basic usage for laser engraving machine: https://youtu.be/qz8KFuVl4u8
 # Link to Buy
-Aliexpress: https://www.aliexpress.com/item/1005003246449359.html?spm=a2g0o.store_pc_home.productList_845147861.pic_9
+https://www.aliexpress.com/item/1005003246449359.html?spm=a2g0o.store_pc_home.productList_845147861.pic_9
 
 #  Hardware
 ![size](https://user-images.githubusercontent.com/48378586/138042870-4f78506b-6ee5-4e68-a3f8-5b2527568462.jpg)
 
-#  Compare between MKS DLC and MKS DLC32
 ![compare](https://user-images.githubusercontent.com/48378586/138044453-24ca6b9d-2692-4dd1-8831-7d136d0b0f45.png)
 
 #  Mobile App
