@@ -16,4 +16,4 @@ We have developed MKSLaser, the App for mobile phone, which can connect to MKS D
 ![image](https://user-images.githubusercontent.com/48378586/138044705-56821842-31f8-477e-bc7a-0a7ccbdaa075.png)
 
 ![特点对比](https://user-images.githubusercontent.com/48378586/146497798-44370033-2ee3-4b0d-acd0-dda0622951f7.png)
-
+![CNC orgrame code](https://user-images.githubusercontent.com/48378586/146535924-573ba67b-6eef-4b79-8fbd-0f62e7d1227a.png)
